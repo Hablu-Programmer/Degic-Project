@@ -15,6 +15,7 @@ function Hero() {
 
               <button className='bg-indigo-100 font-semibold py-2 px-5 sm:py-3 sm:px-6 rounded-lg transition duration-300 text-[#5F62E2]'>Learn More</button>
             </div>
+            
           </div>
 
           <div className='flex-1'>
