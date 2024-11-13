@@ -5,6 +5,8 @@ import Hero from './Components/Hero';
 import Presentation from './Components/presentation';
 import Slider from './Components/Slider';
 import Video from './Components/Video';
+import WorkPage from './Components/Time';
+import BombArea from './Components/BombArea';
 
 
 
@@ -16,6 +18,8 @@ function App() {
       <Presentation />
       <Slider />
       <Video />
+     <WorkPage /> 
+     <BombArea />
     
     </>
   )
